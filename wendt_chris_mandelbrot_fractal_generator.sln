@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wendt_chris_mandelbrot_fractal_generator", "mandelbrot_try_two\wendt_chris_mandelbrot_fractal_generator.csproj", "{40B7D783-E7B7-4D1C-AA3A-7DA5F4C94404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B7D783-E7B7-4D1C-AA3A-7DA5F4C94404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B7D783-E7B7-4D1C-AA3A-7DA5F4C94404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B7D783-E7B7-4D1C-AA3A-7DA5F4C94404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B7D783-E7B7-4D1C-AA3A-7DA5F4C94404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
